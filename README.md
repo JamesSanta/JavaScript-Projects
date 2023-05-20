@@ -1,2 +1,2 @@
 # JavaScript Projects
- JavaScript projects made during bootcamp
+ These are my JavaScript projects made during bootcamp
