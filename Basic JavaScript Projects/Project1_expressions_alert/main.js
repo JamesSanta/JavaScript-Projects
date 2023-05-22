@@ -7,3 +7,5 @@ var Sent2= " and this is the end of the string. "; // The second variable
 document.write(Sent1 + Sent2); // Concatenating the two variables.
 
 document.write(3 + 3); //Addition expression
+
+
