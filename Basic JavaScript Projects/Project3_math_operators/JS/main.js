@@ -38,6 +38,6 @@ num2++;
 document.write(num2);
 
 // window.alert(Math.random());
-window.alert(Math.random( * 100)); // Random number between 0 and 100
+window.alert(Math.random() * 100); // Random number between 0 and 100
 
 
