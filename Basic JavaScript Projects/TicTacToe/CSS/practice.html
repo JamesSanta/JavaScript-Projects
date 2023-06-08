@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+</head>
+
+<body>
+    <p id="demo"></p>
+    <p id="test"></p>
+
+<script>
+    let hello = "";
+    hello = () => {
+        return "Hello All";
+    }
+    document.getElementById("demo").innerHTML = hello ();
+
+    const numbers = [43, 6, 23, 18, 65];
+    let someOver23 = numbers.some(myFunction);
+
+    document.getElementById("test").innerHTML = "Some over 23 is " + someOver23;
+
+    function myFunction(value, index, array) {
+        return value > 23
+        }
+</script>
+
+</body>
+</html> 
